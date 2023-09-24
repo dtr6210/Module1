@@ -6,8 +6,6 @@ let book = {
        
 }
 
-// console.log(user.first_name)
-// console.log(user.favorites.food[0])
 
 console.log(book.Title)
 console.log(book.Author)
