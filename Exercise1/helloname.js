@@ -1,1 +1,5 @@
-console.log("Hello Name");
+function helloname(name){
+    console.log("Hello" +" " + name + "!");
+}
+
+helloname("Dean")
